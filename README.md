@@ -1,6 +1,6 @@
 # @reaqwq/valorantapi
 
-[日本語のREADMEはこちら](README.ja.md)
+[日本語のREADMEはこちら](https://github.com/reaqwq/ValorantApi/blob/main/README.ja.md)
 
 An unofficial, native JavaScript (Node.js) library for communicating directly with a locally running Valorant client and Riot's PvP APIs.
 

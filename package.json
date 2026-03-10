@@ -1,6 +1,6 @@
 {
   "name": "@reaqwq/valorantapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "local api",
   "scripts": {
     "basic": "node examples/basic_usage.js",

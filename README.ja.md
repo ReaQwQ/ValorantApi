@@ -1,6 +1,6 @@
 # @reaqwq/valorantapi
 
-[Read this in English](README.md)
+[Read this in English](https://github.com/reaqwq/ValorantApi/blob/main/README.md)
 
 ローカルで実行中のValorantクライアントおよびRiot PvP APIと直接通信するための、JavaScript（Node.js）による非公式・ネイティブAPIライブラリです。
 
